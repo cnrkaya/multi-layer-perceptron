@@ -2,7 +2,7 @@
 
 An implementation of multi layer perceptron in python from scratch.
 
-Probleme uygun şekilde değiştirilebilir.
+The neural network model can be changed according to the problem.
 
 ## Example Problem 
 Implementing a MLP algorithm for f(x, y) = x^2 + y^2 function 
