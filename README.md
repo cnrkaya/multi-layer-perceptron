@@ -17,7 +17,7 @@ Train and Test elements consist of random decimal x and y values in the range 0 
 
 ## Train Loss and Test Graphs
 
-The train and test graphs, which result from different learning and error rates, are shown below.
+Train and test graphs, which result from different learning and error rates, are shown below.
 
 The graphic on the left shows the error change during training.
 
